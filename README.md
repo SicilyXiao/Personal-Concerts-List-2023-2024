@@ -3,7 +3,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
 
 
 ## Plans
-*Summer Season: Early July - Late August*
+*Summer Season: Early July - Late August*  
 *Fall Break: Saturday, October 7 - Tuesday, Oct 10, 2023*
 **
 1. [2023 Summer](#2023-Summer)
