@@ -49,7 +49,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
 
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -59,7 +59,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -69,7 +69,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -79,7 +79,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -89,7 +89,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -99,7 +99,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -109,7 +109,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
@@ -119,7 +119,7 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
   
   [Back to Plans](#Plans)
 
-|  Time  |  Place  |  Artists  |  Program  |  Checkbox  |
+|  Time  |  Place  |  Artists  |  Program  |  After Performance  |
 |  ----  | ----  | ----  | ----  | ----  |
 | xxx  | xxx | xxx | xxx |
   
