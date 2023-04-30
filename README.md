@@ -2,41 +2,32 @@
 Personal Concerts List
 
 
-## Plans ([template](https://hackmd.io/EDetK-zSSNWr8AvLt3VAcw#Product-Spec))
+## Plans
 1. [2023 Summer](#2023-Summer)
-2. [2023.09](#2023.09)
-3. [2023.10](#2023.10)
-4. [2023.11](#2023.11)
-5. [2023.12](#2023.12)
-6. [2024.01](#2024.01)
-7. [2024.02](#2024.02)
-8. [2024.03](#2024.03)
-9. [2024.04](#2024.04)
-10. [2024.05](#2024.05)
-11. [2024.06](#2024.06)
-12. [2024 Summer](#2024-Summer)
+2. [Pre Fall Break](#Pre-Fall-Break)
+3. [Fall Break](#Fall-Break)
+4. [Post Fall Break](#Post-Fall-Break)
+5. [Winter Break](#Winter-Break)
+6. [Pre Spring Break](#Pre-Spring-Break)
+7. [Spring Break](#Spring-Break)
+8. [Post Spring Break](#Post-Spring-Break)
+9. [Early Summer Break](#Early-Summer-Break)
 
 
 ## 2023 Summer
 
-## 2023.09
+## Pre Fall Break
 
-## 2023.10
+## Fall Break
 
-## 2023.11
+## Post Fall Break
 
-## 2023.12
+## Winter Break
 
-## 2024.01
+## Pre Spring Break
 
-## 2024.02
+## Spring Break
 
-## 2024.03
+## Post Spring Break
 
-## 2024.04
-
-## 2024.05
-
-## 2024.06
-
-## 2024 Summer
+## Early Summer Break
