@@ -81,8 +81,8 @@ Still Updating!
   
   [Back to Plans](#Plans)
 
-|Status|  Time  |  Place  | Link | Artists  |  Program  |  After Performance  |
-|  ----  | ----  | ----  | ---- | --- | ----  |
+|Status| Time  | Place  | Link | Artists  |  Program  |  After Performance  |
+|  ----  | ----  | ----  | ---- | --- | ----  | ----  |
 |Waiting for sale (subscription)|Jan 11, Thu, Open Rehearsal 10:30am, Performance 7:30pm|Boston|[Link](https://www.bso.org/events/leon-ravel-stravinsky)| BSO<br>Andris Nelsons, conductor<br>Seong-Jin Cho, piano|Tania LEÓN New work (world premiere; BSO co-commission)<br>RAVEL Piano Concerto for the left hand<br>STRAVINSKY The Rite of Spring|  |
 |Waiting for sale|Jan 12, Fri, 11:00pm|New York City|[Link](https://nyphil.org/concerts-tickets/2324/hilary-hahn)| NYPhil<br>Jakub Hrůša, conductor<br>Hilary Hahn, violin|COLERIDGE-TAYLOR Ballade for Orchestra<br>PROKOFIEV Violin Concerto No. 1<br>BARTÓK Concerto for Orchestra|  |
   
@@ -93,7 +93,7 @@ Still Updating!
   [Back to Plans](#Plans)
 
 |Status|  Time  |  Place  | Link | Artists  |  Program  |  After Performance  |
-|  ----  | ----  | ----  | ---- | --- | ----  |
+|  ----  | ----  | ----  | ---- | --- | ----  |----  |
 | |  | | | | | |
   
   [Back to Top of the Section](#Pre-Spring-Break)
@@ -103,7 +103,7 @@ Still Updating!
   [Back to Plans](#Plans)
 
 |Status|  Time  |  Place  | Link | Artists  |  Program  |  After Performance  |
-|  ----  | ----  | ----  | ---- | --- | ----  |
+|  ----  | ----  | ----  | ---- | --- | ----  |----  |
 |Waiting for sale|Mar 16, Sat, 7:30pm|Chicago|[Link](https://cso.org/performances/23-24/cso-classical/also-sprach-zarathustra/)| CSO<br>Jakub Hrůša, conductor<br>Josef Špaček, violin|R. STRAUSS Also sprach Zarathustra<br>MARTINŮ Violin Concerto No. 1<br>BARTÓK	Suite from The Miraculous Mandarin|  |
 |Waiting for sale|Mar 21, Thu, 7:30pm|Chicago|[Link](https://cso.org/performances/23-24/cso-classical/mahler-4/)| CSO<br>Susanna Mälkki, conductor<br>Stefán Ragnar Höskuldsson, principal flute<br>Ying Fang, soprano|WAGNER	 Prelude to Act I of Lohengrin<br>LIEBERMANN Flute Concerto No. 2<br>MAHLER Symphony No. 4|  |
   
@@ -114,7 +114,7 @@ Still Updating!
   [Back to Plans](#Plans)
 
 |Status|  Time  |  Place  | Link | Artists  |  Program  |  After Performance  |
-|  ----  | ----  | ----  | ---- | --- | ----  |
+|  ----  | ----  | ----  | ---- | --- | ----  |----  |
 |TBD|Mar 31, Sun, 3:00pm|Boston|[Link](https://www.bso.org/events/bso-chamber-players-march-31)| Garrick Ohlsson, piano<br>Boston Symphony Chamber Players|MESSIAEN Quartet for the End of Time, for clarinet, violin, cello, and piano|  |
 |TBD|Apr 13, Sat, 8:00pm|Apr 14, Sun, 2:00pm|Boston|[Link](https://www.bso.org/events/messiaen-turangalila-symphony)| BSO<br>Andris Nelsons, conductor<br>Yuja Wang, piano<br>Cécile Lartigau, ondes Martenot|MESSIAEN Turangalîla-symphonie|  |
   
