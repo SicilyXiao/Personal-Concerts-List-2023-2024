@@ -29,10 +29,11 @@ Personal Concerts List for Season 2023-2024, including summer 2023.
 |Status|  Time  |  Place  |  Link   |  Artists  |  Program  | After Performance |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  |
 |TBD|Aug 9, 8:00pm|Tanglewood|[Link](https://www.bso.org/events/alisa-weilerstein)|Alisa Weilerstein, cello<br>Elkhanah Pulitzer, director<br>Seth Reiser, scenic and lighting designer<br>Carlos Soto, costume designer| FRAGMENTS 2 (Multi-media Bach Cello Suite No.2) | |
-|TBD|Aug 10, 2:00pm|Tanglewood|[Link](https://www.bso.org/events/yo-yo-ma-cello-workshop)|Yo-Yo Ma, cello <br> Tanglewood Music Center Fellows|Open Workshop| |
-|TBD|Aug 11, 8:00pm|Tanglewood|[Link](https://www.bso.org/events/bso-anne-sophie-mutter)|Andris Nelsons, conductor <br> Anne-Sophie Mutter, violin|John WILLIAMS Violin Concerto No. 2 <br> STRAUSS Death and Transfiguration <br> RAVEL La Valse | |
-|TBD|Aug 18, 8:00pm|Tanglewood|[Link](https://www.bso.org/events/bso-jean-yves-thibaudet) Andris Nelsons, conductor <br> Jean-Yves Thibaudet, piano
+|TBD|Aug 10, 2:00pm|Tanglewood|[Link](https://www.bso.org/events/yo-yo-ma-cello-workshop)|Yo-Yo Ma, cello<br>Tanglewood Music Center Fellows|Open Workshop| |
+|TBD|Aug 11, 8:00pm|Tanglewood|[Link](https://www.bso.org/events/bso-anne-sophie-mutter)|Andris Nelsons, conductor<br>Anne-Sophie Mutter, violin|John WILLIAMS Violin Concerto No. 2<br>STRAUSS Death and Transfiguration<br>RAVEL La Valse | |
+|TBD|Aug 18, 8:00pm|Tanglewood|[Link](https://www.bso.org/events/bso-jean-yves-thibaudet) | Andris Nelsons, conductor <br> Jean-Yves Thibaudet, piano | SAINT-SAËNS Piano Concerto No. 5, Egyptian<br>Carlos SIMON Four Black American Dances (BSO commission)<br>GERSHWIN Piano Concerto in F| |
 |TBD|Aug 19, 7:00pm|Cleveland Blossom|[Link](https://www.clevelandorchestra.com/attend/concerts-and-events/2324/blossom/tchaiskovsky/)|Ryan Bancroft, conductor<br>Mao Fujita, piano|SHAW  Entr’acte<br>DAWSON Negro Folk Symphony<br>TCHAIKOVSKY  Piano Concerto No. 1| |
+|TBD|Aug 20, 6:00pm|Santa Fe|[Link](https://secure.santafechambermusic.com/8260/8289)|Haochen Zhang, piano<br>Ida Kavafian, violin<br>Peter Stumpf, cello<br>Edgar Meyer, double bass<br>Dover Quartet|HAYDN String Quartet in C Major, Hob. III:77, Op. 76, No. 3, Emperor<br>EDGAR MEYER Quintet for String Quartet and Double Bass<br>BRAHMS Piano Trio in B Major, Op. 8||
 |TBD|Aug 21, 6:00pm|Santa Fe|[Link](https://secure.santafechambermusic.com/8260/8290)|Haochen Zhang, piano <br> Ida Kavafian, violin <br> Peter Stumpf, cello <br> Edgar Meyer, double bass <br> Dover Quartet | SCHOENBERG Verklärte Nacht (Transfigured Night), Op. 4 <br >SCHUBERT Piano Quintet in A Major, D. 667, Trout| |
 
 ## Pre Fall Break
