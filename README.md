@@ -125,7 +125,7 @@ Still Updating!
   [Back to Plans](#Plans)
 
 |Status|  Time  |  Place  | Link | Artists  |  Program  |  After Performance  |
-|  ----  | ----  | ----  | ---- | --- | ----  |
+|  ----  | ----  | ----  | ---- | --- | ----  |----  |
 | |  | | | | |  |
 
   [Back to Top of the Section](#After-Spring-Final)
